@@ -1,6 +1,7 @@
 [< back](../README.md)
 
 ### Readings
+* [JS DOM Manipulation](http://callmenick.com/post/basics-javascript-dom-manipulation)
 * [ES6](https://leanpub.com/understandinges6/read/)
 * [Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/?utm_source=javascriptweekly&utm_medium=email)
 * [jQuery - JS Equivalents](http://callmenick.com/post/jquery-functions-javascript-equivalents)
@@ -10,10 +11,3 @@
 
 #### Node
 * [Express App Structure](https://www.terlici.com/2014/08/25/best-practices-express-structure.html)
-
-#### TDD
-* [Chai](http://chaijs.com/)
-* [JS TDD](https://code.tutsplus.com/tutorials/test-driven-javascript-development-in-practice--net-16246)
-* [Mocha](https://mochajs.org/)
-* [Node TDD 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
-* [Node TDD 2](https://www.codementor.io/nodejs/tutorial/unit-testing-tdd-node-js-nockjs-part-2)

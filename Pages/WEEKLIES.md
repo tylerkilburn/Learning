@@ -16,3 +16,6 @@
 * [Scotch](https://scotch.io/)
 #### Sunday
 * [UX Planet](https://uxplanet.org/)
+
+#### Other Blogs
+* [Call Me Nick](http://callmenick.com/page/archive)

@@ -7,12 +7,15 @@
 ## Disciplines
 ### [CSS](./Pages/CSS.md)
 ### [JS / Node](./Pages/JS.md)
+### [JS / Node Testing](./Pages/JSTESTING.md)
 ### [Affinity (Design)](./Pages/AFFINITY.md)
 ### [Databases](./Pages/DATABASES.md)
 ### [Shell / Git](./Pages/SHELL.md)
 
 ### Misc
 * [Handlebars](https://webapplog.com/handlebars/)
+* [Cooking With Webpack Part 1](http://callmenick.com/post/cooking-with-webpack-1-introduction-basic-implementation)
+* [Cooking With Webpack Part 2](http://callmenick.com/post/cooking-with-webpack-2-understanding-using-webpack-loaders)
 --------------------------------------------------
 ## Readings
 * [GraphQL](https://learngraphql.com/basics/lets-learn-graphql)
