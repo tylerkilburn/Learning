@@ -2,17 +2,22 @@
 
 # Mocha / Chai
 
-##### NPM Test
+#### NPM Install
+```
+npm i -D mocha chai babel-register
+```
+
+#### NPM Test Script
 ```
 "test": "mocha test/.setup.js **/*-spec.js"
 ```
 
-##### Setup File
+#### Setup File
 ```
 require('babel-register')();
 ```
 
-##### Unit Tests
+#### Unit Tests
 ```
 import { expect } from 'chai';
 import MyFeature from 'MyFeature';
@@ -21,18 +26,27 @@ import MyFeature from 'MyFeature';
 
 describe('MyFeature', () => {
   it('should do stuff');
-}
+});
 ```
 
 
 # Enzyme / Mocha / Chai
 
-##### NPM Test
+#### NPM Install
+```
+npm i -D enzyme mocha chai babel-register
+```
+ONLY IF React <15.5, also add...
+```
+npm i --save-dev react-test-renderer react-dom
+```
+
+#### NPM Test Script
 ```
 "test": "mocha test/.setup.js **/*-spec.js"
 ```
 
-##### Setup File
+#### Setup File
 ```
 require('babel-register')();
 
@@ -56,7 +70,7 @@ global.navigator = {
 documentRef = document;
 ```
 
-##### Unit Tests
+#### Unit Tests
 ```
 import React from 'react';
 import { expect } from 'chai';
@@ -67,5 +81,5 @@ import MyFeature from 'MyFeature';
 
 describe('MyFeature', () => {
   it('should do stuff');
-}
+});
 ```
