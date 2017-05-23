@@ -13,9 +13,10 @@
 ### [Shell / Git](./Pages/SHELL.md)
 
 ### Misc
-* [Handlebars](https://webapplog.com/handlebars/)
+* [Epic Cheatsheet](http://ricostacruz.com/cheatsheets/)
 * [Cooking With Webpack Part 1](http://callmenick.com/post/cooking-with-webpack-1-introduction-basic-implementation)
 * [Cooking With Webpack Part 2](http://callmenick.com/post/cooking-with-webpack-2-understanding-using-webpack-loaders)
+* [Handlebars](https://webapplog.com/handlebars/)
 --------------------------------------------------
 ## Readings
 * [GraphQL](https://learngraphql.com/basics/lets-learn-graphql)
@@ -28,14 +29,7 @@
 * [Udemy](https://www.udemy.com/courses/)
 * [Wes Bos](http://wesbos.com/)
 
-## Video Coursework
-* [DevTips (Design / CSS)](https://www.youtube.com/user/DevTipsForDesigners)
-* [Fun Fun Function (FUNctional JS)](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-* [Kyle Robinson Young (JS Exploration)](https://www.youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg)
+## General Video Coursework
 * [Level Up Tuts (General Web)](https://www.youtube.com/user/LevelUpTuts/videos)
-* [Robo Squid (HTML / CSS)](https://www.youtube.com/channel/UC7vYUkA-s5XVjS7UoyGSFbg/featured)
 * [Wes Bos Youtube](https://www.youtube.com/user/wesbos/videos)
-
-## Awesome Lists
-* [CSS](https://github.com/sotayamashita/awesome-css)
-* [Node](https://github.com/sindresorhus/awesome-nodejs)
+* [Frontend Video Aggregate](https://www.reddit.com/r/javascript/comments/6cm0zo/a_collection_of_useful_youtube_channels_for/)
