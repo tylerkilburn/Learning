@@ -15,7 +15,6 @@ require('babel-register')();
 ##### Unit Tests
 ```
 import { expect } from 'chai';
-import { addStudentsToSeats } from './helpers';
 import MyFeature from 'MyFeature';
 
 // Prep / Setup
