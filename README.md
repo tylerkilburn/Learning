@@ -1,10 +1,13 @@
-# Learning
+### Community / Trends
 ### [Dailies](./Pages/DAILIES.md)
 ### [Weekly Blogs](./Pages/WEEKLIES.md)
 --------------------------------------------------
-### [Tools](./Pages/TOOLS.md)
+### Tooling
+### [Setup Guides](./SETUPTESTING.md)
+### [Toolbox](./Pages/TOOLS.md)
+
 --------------------------------------------------
-## Disciplines
+## Learning
 ### [CSS](./Pages/CSS.md)
 ### [JS / Node](./Pages/JS.md)
 ### [JS / Node Testing](./Pages/JSTESTING.md)

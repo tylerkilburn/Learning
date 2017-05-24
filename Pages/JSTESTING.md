@@ -1,7 +1,5 @@
 [< back](../README.md)
 
-### > [Setup Template](./SETUPTESTING.md) <
-
 ### Readings
 * [Enzyme and Mocha](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha)
 * [Mocha and Sinon pt1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
