@@ -3,7 +3,7 @@
 ### [Weekly Blogs](./Pages/WEEKLIES.md)
 --------------------------------------------------
 ### Tooling
-### [Setup Guides](./Setup/SETUP.md)
+### [Setup Steps](./Setup/SETUP.md)
 ### [Toolbox](./Pages/TOOLS.md)
 
 --------------------------------------------------
