@@ -3,6 +3,7 @@
 ### Readings
 * [ES6](https://leanpub.com/understandinges6/read/)
 * [Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/?utm_source=javascriptweekly&utm_medium=email)
+* [Guide to Currying](https://www.sitepoint.com/currying-in-functional-javascript/)
 * [jQuery - JS Equivalents](http://callmenick.com/post/jquery-functions-javascript-equivalents)
 * [JS DOM Manipulation](http://callmenick.com/post/basics-javascript-dom-manipulation)
 * [JS the Right Way](http://jstherightway.org/)
