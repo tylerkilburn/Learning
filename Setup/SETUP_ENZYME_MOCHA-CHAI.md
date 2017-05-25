@@ -3,7 +3,7 @@
 
 # Enzyme / Mocha / Chai
 
-#### NPM Install
+#### Install
 ```
 npm i -D enzyme mocha chai babel-register
 ```
@@ -12,7 +12,7 @@ ONLY IF React < 15.5, also add...
 npm i --save-dev react-test-renderer react-dom
 ```
 
-#### NPM Test Script
+#### Test NPM Script
 ```
 "test": "mocha test/.setup.js **/*.spec.js"
 ```

@@ -2,12 +2,12 @@
 
 # Mocha / Chai
 
-#### NPM Install
+#### Install
 ```
 npm i -D mocha chai babel-register
 ```
 
-#### NPM Test Script
+#### Test NPM Script
 ```
 "test": "mocha test/.setup.js **/*.spec.js"
 ```
