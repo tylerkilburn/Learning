@@ -13,8 +13,3 @@ npm i -D babel-cli babel-preset-env
 ```
 "babelify": "babel src/index.js --out-file build/bundle.js",
 ```
-
-## Via Webpack
-```
-Todo
-```
