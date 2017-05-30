@@ -4,13 +4,13 @@
 
 #### Install
 ```
-npm i -D eslint eslint-plugin-import eslint-config-airbnb-base
+npm i -D eslint eslint-plugin-import eslint-config-airbnb
 ```
 
 #### Simple .eslintrc
 ```
 {
-    "extends": "airbnb-base",
+    "extends": "airbnb",
     "plugins": [
         "import"
     ]
