@@ -2,12 +2,8 @@
 ### [Dailies](./Pages/DAILIES.md)
 ### [Weekly Blogs](./Pages/WEEKLIES.md)
 --------------------------------------------------
-### Tooling
-### [Setup Steps](./Setup/SETUP.md)
-### [Toolbox](./Pages/TOOLS.md)
 
---------------------------------------------------
-## Learning
+## Categories
 ### [CSS](./Pages/CSS.md)
 ### [JS / Node](./Pages/JS.md)
 ### [JS / Node Testing](./Pages/JSTESTING.md)
@@ -21,6 +17,7 @@
 * [Cooking With Webpack Part 2](http://callmenick.com/post/cooking-with-webpack-2-understanding-using-webpack-loaders)
 * [Handlebars](https://webapplog.com/handlebars/)
 --------------------------------------------------
+
 ## Readings
 * [GraphQL](https://learngraphql.com/basics/lets-learn-graphql)
 * [React + GraphQL Tutorial](https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
@@ -36,3 +33,8 @@
 * [Level Up Tuts (General Web)](https://www.youtube.com/user/LevelUpTuts/videos)
 * [Wes Bos Youtube](https://www.youtube.com/user/wesbos/videos)
 * [Frontend Video Aggregate](https://www.reddit.com/r/javascript/comments/6cm0zo/a_collection_of_useful_youtube_channels_for/)
+--------------------------------------------------
+
+### Tooling
+### [Setup Steps](./Setup/SETUP.md)
+### [Toolbox](./Pages/TOOLS.md)
