@@ -3,7 +3,7 @@
 ## SETUP
 
 * [Air BNB Linting](./SETUP_AIR-BNB-LINTING.md)
-* [Bable CLI](https://babeljs.io/docs/usage/cli/)
+* [Bable](./SETUP_BABLE.md)
 * [Mocha / Chai](./SETUP_MOCHA-CHAI.md)
 * [Enzyme / Mocha / Chai](./SETUP_ENZYME-MOCHA-CHAI.md)
 
