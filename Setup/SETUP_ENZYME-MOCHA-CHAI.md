@@ -3,7 +3,7 @@
 
 # Enzyme / Mocha / Chai
 
-#### Install
+## Install
 ```
 npm i -D enzyme mocha chai babel-register
 ```
@@ -12,13 +12,15 @@ ONLY IF React < 15.5, also add...
 npm i --save-dev react-test-renderer react-dom
 ```
 
-#### Test NPM Script
+## Test NPM Script
 ```
 "test": "mocha test/.setup.js **/*.spec.js"
 ```
 
-#### Setup File
-create this setup file test/.setup.js with the following
+## Setup File ( if using es6 )
+* Install babel-core and babel-preset-es2015
+* Setup .bablerc with "presets": ["es2015"]
+* create this setup file test/.setup.js with the following
 ```
 require('babel-register')();
 
@@ -41,8 +43,7 @@ global.navigator = {
 
 documentRef = document;
 ```
-
-#### Unit Tests
+## Unit Tests
 ```
 import React from 'react';
 import { expect } from 'chai';
