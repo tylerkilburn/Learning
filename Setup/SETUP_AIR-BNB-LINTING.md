@@ -2,22 +2,33 @@
 
 # Air BNB Linting
 
+## Basic
 #### Install
 ```
-npm i -D eslint eslint-plugin-import eslint-config-airbnb
+npm i -D eslint eslint-plugin-import eslint-config-airbnb-base
 ```
-
-#### Simple .eslintrc
+#### .eslintrc
 ```
 {
-    "extends": "airbnb",
+    "env": {
+        "browser": true,
+        "es6": true,
+        "node": true,
+        "mocha": true
+    },
+    "extends": "airbnb-base",
     "plugins": [
         "import"
     ]
 }
 ```
 
-#### React Ready .eslintrc
+## React
+#### Install
+```
+npm i -D eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-config-airbnb
+```
+#### .eslintrc
 ```
 {
     "env": {
