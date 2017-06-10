@@ -14,7 +14,7 @@ npm i --save-dev react-test-renderer react-dom
 
 ## Test NPM Script
 ```
-"test": "mocha test/.setup.js **/*.spec.js"
+"test": "mocha test/.setup.js src/**/*.spec.js"
 ```
 
 ## Setup File ( if using es6 )

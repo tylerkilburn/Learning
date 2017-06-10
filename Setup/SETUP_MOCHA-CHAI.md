@@ -9,7 +9,7 @@ npm i -D mocha chai babel-register
 
 ## Test NPM Script
 ```
-"test": "mocha test/.setup.js **/*.spec.js"
+"test": "mocha test/.setup.js src/**/*.spec.js"
 ```
 
 ## Setup File ( if using es6 )
