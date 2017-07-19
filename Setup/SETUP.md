@@ -8,4 +8,5 @@
 * [Enzyme / Mocha / Chai](./SETUP_ENZYME-MOCHA-CHAI.md)
 * [JSDOM DOM Mocking](./SETUP_JSDOM.md)
 * [NPM Build Scripts](./SETUP_NPM-BUILD-SCRIPTS.md)
+* [SASS Variables](./SETUP_SASS-VARIABLES.md)
 * [React](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel)
